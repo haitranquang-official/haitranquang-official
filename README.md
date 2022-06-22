@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently studying at Hanoi University of Science and Technology
 - 📫 How to reach me: haitranquang.official@gmail.com
 
-![haitranquang-offcial's GitHub stats](https://github-readme-stats.vercel.app/api?username=haitranquang-official&theme=default&show_icons=true)
+![haitranquang-offcial's GitHub stats](https://github-readme-stats.vercel.app/api?username=haitranquang-official&theme=default&show_icons=true&count_private=true)
